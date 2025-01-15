@@ -147,4 +147,7 @@ lib/
 2. Dart Programming for Flutter: Beginners Tutorial [ FREE COURSE ] Overview. Smartherd. URL: https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q (дата звернення: 13.12.2024)
  
 ДОДАТОК Б
+Відео-звіт - https://youtu.be/yGjrp0sK27E
+ 
+ДОДАТОК В
 Презентація
